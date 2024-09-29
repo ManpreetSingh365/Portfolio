@@ -11,12 +11,12 @@ const CONFIG = {
     title: "Portfolio | Manpreet Singh - Software Engineer",
     description: "I'm Manpreet Singh, software engineer based in Amritsar, Punjab.",
     keywords:
-      "Manpreet Singh, portfolio, Manpreet Singh, software engineer, nextjs portfolio, portfolio design, portfolio website, personal portfolio",
+      "Manpreet Singh, portfolio, Manpreet, software engineer, nextjs portfolio, portfolio design, portfolio website, personal portfolio",
     site_name: "Manpreet Singh Portfolio",
     url: process.env.PUBLIC_URL || "http://localhost:3000",
     author: "Manpreet Singh",
     lang: "en",
-    image: "https://pg56714-portfolio.vercel.app/portfolio-fork.png",
+    image: "https://res.cloudinary.com/dnhvlqc1n/image/upload/v1727630612/azfdjulktx1o6thc84gy.png",
   },
   googleAnalytics: {
     enable: true,

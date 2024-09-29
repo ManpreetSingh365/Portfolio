@@ -13,15 +13,14 @@ interface HeroProps {
 
 const Hero = ({ mainData }: HeroProps) => {
   const { theme } = useTheme();
-  const { name, titles, heroImage, shortDesc, techStackImages, blogUrl } =
+  const { name, titles, heroImage, shortDesc, techStackImages, phoneNumber} =
     mainData;
 
   return (
     <section
       id="home"
-      className={`${
-        theme === "dark" && "bg-grey-900"
-      } relative min-h-screen w-full mx-auto overflow-hidden`}
+      className={`${theme === "dark" && "bg-grey-900"
+        } relative min-h-screen w-full mx-auto overflow-hidden`}
     >
       <div className="absolute -z-10 min-h-screen h-full w-full">
         <Image
@@ -78,13 +77,13 @@ const Hero = ({ mainData }: HeroProps) => {
                     </a> */}
 
           <div className="flex items-center gap-4 md:mt-4">
-            {blogUrl.trim() && (
+            {phoneNumber.trim() && (
               <Link
-                href={blogUrl}
+                href={phoneNumber}
                 target="_blank"
                 className="w-fit text-sm md:text-base py-2 px-4 cursor-pointer flex items-center gap-1 rounded-md bg-violet-600 hover:bg-violet-700 dark:bg-violet-700 hover:dark:bg-violet-800 transition-colors group text-white"
               >
-                myBlog
+                Contact me📲
               </Link>
             )}
             <ScrollLink
@@ -109,7 +108,6 @@ const Hero = ({ mainData }: HeroProps) => {
               height={1000}
               className="rounded-full w-full h-full object-cover"
               src="/Image-removebg.png"
-              // src={heroImage}
             />
           </div>
 

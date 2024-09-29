@@ -1,4 +1,4 @@
-![Portfolio](https://res.cloudinary.com/lifecodes/image/upload/v1678684352/Portfolio/l7b1gz61rh3hgoz5qzta.png)
+![Portfolio](https://res.cloudinary.com/dnhvlqc1n/image/upload/v1727630612/azfdjulktx1o6thc84gy.png)
 
 <div align="center">
   &middot;
@@ -8,8 +8,8 @@
   <br/>
 
   <p align="center">
-    <img src="https://img.shields.io/github/forks/jigar-sable/next-portfolio?style=for-the-badge" />
-  <a href="https://jigarsable.vercel.app">
+    <img src="https://img.shields.io/github/forks/ManpreetSingh365/Portfolio?style=for-the-badge" />
+  <a href="https://manpreetsingh.vercel.app">
     <img src="https://img.shields.io/static/v1?label=&message=View%20Demo&style=for-the-badge&color=black&logo=vercel" />
   </a>
 </p>
@@ -37,7 +37,7 @@ Next Portfolio is built using Next.js and Tailwind CSS for a modern design and r
 - [SendGrid](https://sendgrid.com)
 - [Framer Motion](https://www.framer.com/motion)
 
-<!-- ## Tech Stack 🛠️
+## Tech Stack 🛠️
 
  <p>
  <a href="https://nextjs.org">
@@ -55,18 +55,18 @@ Next Portfolio is built using Next.js and Tailwind CSS for a modern design and r
   <a href="https://www.framer.com/motion">
     <img src="https://img.shields.io/badge/Framer-0055FF.svg?style=for-the-badge&logo=Framer&logoColor=white" />
   </a>
-</p> -->
+</p> 
 
 ## Development 💻
 
 Here are the steps to run the portfolio locally.
 
-1. Fork [this](https://github.com/jigar-sable/next-portfolio) repository.
+1. Fork [this](https://github.com/ManpreetSingh365/Portfolio) repository.
 
 2. Clone your forked copy of the repo
 
    ```bash
-   git clone https://github.com/<your-github-username>/next-portfolio.git
+   git clone https://github.com/<your-github-username>/Portfolio.git
    ```
 
 3. Install dependencies
@@ -88,12 +88,12 @@ Here are the steps to run the portfolio locally.
 
 > **Note**: `SENDGRID_API_KEY` - Create an API key from "Settings" -> "API Keys" with "Restricted Access" to only "Mail Send"
 
-1. Update the sample [data.json](https://github.com/jigar-sable/next-portfolio/blob/main/data.json) provided, with your data or directly import the same and edit using firebase later. (For storing images you can use [Cloudinary](https://cloudinary.com) or [Firebase Storage](https://firebase.google.com/docs/storage))
+1. Update the sample [data.json](https://github.com/ManpreetSingh365/Portfolio/blob/master/data.json) provided, with your data or directly import the same and edit using firebase later. (For storing images you can use [Cloudinary](https://cloudinary.com) or [Firebase Storage](https://firebase.google.com/docs/storage))
 
 2. Import json data
 
    - Go to [Firebase Console](https://console.firebase.google.com) and select your project
-   - Go to "Database" -> "Realtime Database" -> "Import JSON" and import the [data.json](https://github.com/jigar-sable/next-portfolio/blob/main/data.json) file
+   - Go to "Database" -> "Realtime Database" -> "Import JSON" and import the [data.json](https://github.com/ManpreetSingh365/Portfolio/blob/master/data.json) file
 
 3. Run the project
 
@@ -118,18 +118,17 @@ Here are the steps to run the portfolio locally.
 
 ## License 📄
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/jigar-sable/next-portfolio/blob/main/LICENSE.md)
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/ManpreetSingh365/Portfolio/blob/master/LICENSE.md)
 
-<!-- ## Contact 📬
+ ## Contact 📬
 
 If you want to contact me, you can reach me through below handles.
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jigar-sable)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manpreet-singh-a947a6230/)
 
 ## Support 🙌
 
 If you like this portfolio, please consider giving it a ⭐ on GitHub and sharing it with your friends via social media.
-
 <div align="center">
   <h3> Show some &nbsp;❤️&nbsp; by starring this repo! </h3>
-</div> -->
+</div>

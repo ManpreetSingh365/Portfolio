@@ -19,7 +19,7 @@ export default function Header({ logo }: { logo: string }) {
     window.addEventListener("scroll", updateScroll);
   }, []);
 
-  const navs = ["home", "about", "projects", "experience", "contact"];
+  const navs = ["home", "about", "experience", "projects", "contact"];
 
   return (
     <header

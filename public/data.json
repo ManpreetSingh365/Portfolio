@@ -1,249 +1,169 @@
 {
   "main": {
     "name": "Manpreet Singh",
-    "shortDesc": "I specialize in developing user-friendly software applications that meet client requirements, with a keen attention to detail, scalability, and performance.",
+    "shortDesc": "I specialize in developing user-friendly software applications🧑‍💻 that meet client requirements, with a keen attention to detail, scalability, and performance🔥 Provides : Ultra-Secure 🔐 and Lightning-Fast Development 🚀",
     "titles": [
       "Full Stack Java Development🔥",
-      "Software Engineer🧑‍💻",
+      "Java Software Engineer🧑‍💻",
       "Frontend Development❤️",
       "Backend Development🧮",
-      "Provides : Ultra-Secure 🔐 and Lightning-Fast Development 🚀",
       "Develops Everything🫰"
     ],
-    "heroImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+    "heroImage": "https://res.cloudinary.com/dnhvlqc1n/image/upload/v1726864762/Image-removebg_s6ngqu.png",
     "techStackImages": [
       "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-data-science-data-analytics-flaticons-lineal-color-flat-icons-5.png",
       "https://img.icons8.com/external-parzival-1997-outline-color-parzival-1997/64/external-software-developer-digital-asset-and-intangible-product-parzival-1997-outline-color-parzival-1997.png",
       "https://img.icons8.com/color/144/opencv.png",
-      "https://img.icons8.com/clouds/150/python.png"
+      "https://img.icons8.com/?size=100&id=90519&format=png&color=000000"
     ],
-    "blogUrl": "https://pg56714-log.vercel.app"
+    "phoneNumber": "tel:9592297120" 
   },
   "about": {
-    "aboutImage": "https://pg56714-log.vercel.app/avatar.svg",
+    "aboutImage": "https://res.cloudinary.com/dnhvlqc1n/image/upload/v1726864762/Image-removebg_s6ngqu.png",
     "aboutImageCaption": "< I build stuff 🚀/>",
     "title": "Full Stack Java Developer",
-    "about": "I am currently pursuing my master's degree and have acquired two years of internship experience in the information technology sector, specializing in software development. I am committed to continually advancing my skills and expertise in this field.",
-    "resumeUrl": "https://pg56714-log.vercel.app/resume",
-    "callUrl": ""
+    "about": "I am a Full Stack Java Developer with over 1.5 years of experience in building and optimizing web applications to drive business growth. My expertise spans backend technologies such as Java, Spring Boot, and Hibernate, alongside React/Angular and Tailwind CSS for modern, responsive frontends. I also have strong skills in database management using MySQL and MongoDB. At Besant Technology and Wahenoor Digital Media, I played a key role in creating a web application that boosted customer engagement by 80% and revenue by 60% in just six months. Additionally, I implemented automated testing, reducing bugs by 37% and improving code quality by 66%. I am eager to bring my skills and experience to your company as a Full Stack Java Developer.",
+    "resumeUrl": "https://drive.google.com/file/d/1aOoisbAX8ls2TSwwPuAR1_nIk9GK9nDA/view?usp=sharing",
+    "callUrl": "https://www.linkedin.com/in/manpreet-singh-a947a6230/"
   },
   "socials": [
     {
       "icon": "FaLinkedin",
-      "link": "https://www.linkedin.com/in/sam-hong-tw"
+      "link": "https://www.linkedin.com/in/manpreet-singh-a947a6230/"
     },
     {
       "icon": "FaGithub",
-      "link": "https://github.com/pg56714"
+      "link": "https://github.com/ManpreetSingh365"
     }
   ],
   "projects": [
     {
-      "name": "Digital Emotional Learning Application for Enhancing Positive Emotions in Children with Emotional Disorders",
-      "techstack": "Conference Paper Presentation",
+      "name": "E-Mall: Your One-Stop E-Commerce Shopping Platform",
+      "techstack": "HTML, CSS, JavaScript, BootStrap, FireBase",
       "category": "Others",
-      "image": "https://pg56714-portfolio.vercel.app/paper-bg1.jpg",
+      "image": "https://res.cloudinary.com/dnhvlqc1n/image/upload/v1727627002/m4acugpzwfu5w6lavrko.png",
       "links": {
-        "code": "",
+        "code": "https://github.com/ManpreetSingh365/E-mall.github.io",
         "video": "",
-        "visit": ""
+        "visit": "https://manpreetsingh365.github.io/E-mall.github.io/"
       }
-    },
+    },  
     {
-      "name": "git-issue-pr-workflow-template",
-      "techstack": "workflow template",
-      "category": "Others",
-      "image": "https://pg56714-portfolio.vercel.app/git-issue-pr-workflow-template.jpg",
-      "links": {
-        "code": "https://github.com/pg56714/git-issue-pr-workflow-template",
-        "video": "",
-        "visit": ""
-      }
-    },
-    {
-      "name": "eslint-prettier-husky-lintstaged-commitlint-commitizen-template",
-      "techstack": "workflow template",
-      "category": "Others",
-      "image": "https://pg56714-portfolio.vercel.app/eslint-prettier-husky-lintstaged-commitlint-commitizen-template.jpg",
-      "links": {
-        "code": "https://github.com/pg56714/eslint-prettier-husky-lintstaged-commitlint-commitizen-template",
-        "video": "",
-        "visit": ""
-      }
-    },
-    {
-      "name": "Tech Blog",
-      "techstack": "Next.js",
-      "category": "Github Collaborations",
-      "image": "https://user-images.githubusercontent.com/72514247/209824600-ca9c8acc-6d2d-4041-9931-43e34b8a9a5f.png",
-      "links": {
-        "code": "https://github.com/pg56714/pg56714-log",
-        "video": "",
-        "visit": "https://pg56714-log.vercel.app"
-      }
-    },
-    {
-      "name": "Portfolio Website",
-      "techstack": "Next.js, TypeScript",
-      "category": "Github Collaborations",
-      "image": "https://pg56714-portfolio.vercel.app/portfolio-fork.png",
-      "links": {
-        "code": "https://github.com/pg56714/pg56714-portfolio",
-        "video": "",
-        "visit": "https://pg56714-portfolio.vercel.app"
-      }
-    },
-    {
-      "name": "Love School Management System",
-      "techstack": "HTML, CSS, JavaScript, PHP, and MySQL",
+      "name": "Innovative Contact Organizer",
+      "techstack": "Spring Boot, Hibernate, Maven, Thymeleaf, Tailwind CSS, HTML, CSS, JavaScript and MySQL",
       "category": "Projects",
-      "image": "https://pg56714-portfolio.vercel.app/Love-School-Mockup.png",
+      "image": "https://res.cloudinary.com/dnhvlqc1n/image/upload/v1727625663/a4g3dyogtalwlhocrglk.png",
       "links": {
-        "code": "",
+        "code": "https://github.com/ManpreetSingh365/Innovative-Contact-Organizer",
         "video": "",
-        "visit": ""
+        "visit": "https://ico.up.railway.app/"
       }
     },
     {
-      "name": "Children's Emotion Regulation APP",
-      "techstack": "HTML, CSS, JavaScript, PHP, MySQL, SQLite, Flutter, and Laravel",
+      "name": "Ekam Marriage Bureau",
+      "techstack": "Spring Boot, Hibernate, Maven, Thymeleaf, Tailwind CSS, HTML, CSS, JavaScript and MySQL",
       "category": "Projects",
-      "image": "https://pg56714-portfolio.vercel.app/Emotion-Regulation-APP-Mockup.jpg",
+      "image": "https://res.cloudinary.com/dnhvlqc1n/image/upload/v1727626646/rvvk2elo3w7ftszpr16b.png",
       "links": {
-        "code": "",
-        "video": "https://drive.google.com/file/d/13rCCykP-Vu8RvEIpf39fUMFULXHHbf2n/view?usp=sharing",
-        "visit": ""
-      }
-    },
-    {
-      "name": "flutter grocery shop",
-      "techstack": "flutter",
-      "category": "Projects",
-      "image": "https://pg56714-portfolio.vercel.app/flutter-project1.jpg",
-      "links": {
-        "code": "https://github.com/pg56714/flutter_grocery_shop",
+        "code": "https://github.com/ManpreetSingh365/EkamMarriageBureau",
         "video": "",
-        "visit": ""
-      }
-    },
-    {
-      "name": "YOLO-World vs Grounding DINO",
-      "techstack": "Python",
-      "category": "Projects",
-      "image": "https://pg56714-portfolio.vercel.app/YoloWGDinoArena.jpg",
-      "links": {
-        "code": "https://github.com/pg56714/YoloWGDinoArena",
-        "video": "",
-        "visit": "https://huggingface.co/spaces/pg56714/YoloWGDinoArena"
-      }
-    },
-    {
-      "name": "Segment Anything Arena",
-      "techstack": "Python",
-      "category": "Projects",
-      "image": "https://pg56714-portfolio.vercel.app/Segment-Anything-Arena.jpg",
-      "links": {
-        "code": "https://github.com/pg56714/Segment-Anything-Arena",
-        "video": "",
-        "visit": "https://huggingface.co/spaces/pg56714/Segment-Anything-Arena"
-      }
-    },
-    {
-      "name": "flutter appbar datepicker package",
-      "techstack": "flutter",
-      "category": "Projects",
-      "image": "https://pg56714-portfolio.vercel.app/flutter_appbar_datepicker.jpg",
-      "links": {
-        "code": "https://github.com/pg56714/flutter_appbar_datepicker",
-        "video": "",
-        "visit": "https://pub.dev/packages/flutter_appbar_datepicker"
-      }
-    },
-    {
-      "name": "YOLO-World EfficientViT-SAM",
-      "techstack": "Python",
-      "category": "Projects",
-      "image": "https://github.com/pg56714/YOLO-World_EfficientViT-SAM/raw/main/assets/example1.jpg",
-      "links": {
-        "code": "https://github.com/pg56714/YOLO-World_EfficientViT-SAM",
-        "video": "",
-        "visit": "https://huggingface.co/spaces/pg56714/YOLO-World_EfficientViT-SAM"
+        "visit": "https://ekammatchmaker.com/"
       }
     }
   ],
   "educations": [
     {
-      "institute": "National Taipei University of Business",
-      "degree": "Bachelor's degree, Department of Information Management",
-      "duration": "2021.09 - 2023.06",
+      "institute": "Sri Guru Ramdas Khalsa School",
+      "degree": "12th, Non-Medical in Computer Science",
+      "duration": "03.2018 - 03.2019",
       "desc": [
-        "Familiar with cross-platform app development and web development, including database design and related technologies."
+        "Focus: The program provided foundational knowledge in computer science and business solution analysis, covering key concepts in software development, data management, and business processes."
       ]
     },
     {
-      "institute": "National Taipei University of Business",
-      "degree": "Master's degree, Institute of Artificial Intelligence and Business Application, Department of Information Management",
-      "duration": "2023.06 - Present",
+      "institute": "Besant Technologies",
+      "degree": "Full Stack Java Developer",
+      "duration": "06.2019 - 06.2020",
       "desc": [
-        "Familiar with computer vision techniques, including image detection, image segmentation, and image inpainting.",
-        "Also have a basic understanding and practical experience with predictive analytics technologies such as machine learning and data mining."
+        "Focus: The program provided foundational knowledge in computer science and business solution analysis, covering key concepts in software development, data management, and business processes."
+      ]
+    },
+    {
+      "institute": "Global Group of Institutes",
+      "degree": "Bachelor's degree, Department of Computer Science & Engineering",
+      "duration": "06.2020 - 06.2024",
+      "desc": [
+        "Focus: Comprehensive education in computer science, covering theoretical and practical aspects of software development, data structures, algorithms, and system design.",
+        "Core computer science subjects, including Operating Systems, Data Structures, and Algorithms.",
+        "Programming languages such as Java, JavaSript, Python, and C++.",
+        "Database management, software engineering, and web development.",
+        "Computer networks, cybersecurity, and cloud computing.",
+        "Capstone projects involving real-world problem solving through software development and engineering practices."
       ]
     }
   ],
   "experiences": [
     {
-      "company": "SHIN KONG WU HO-SU MEMORIAL HOSPITAL",
-      "position": "Intern, Software Test Engineer, On-Site, Taiwan(新光醫院)",
-      "duration": "2020.03 - 2020.07",
+      "company": "KocharTech",
+      "position": "Full Stack Java Developer, Intern, Amritsar",
+      "duration": "04.2021 - 12.2022",
       "desc": [
-        "Intern",
-        "This project focused on transitioning from the outdated IBM mainframe to a new generation of open-architecture medical information systems, aimed at enhancing operational efficiency and user experience.",
-        "Performed comprehensive system testing to ensure software integrity and compliance with specifications.",
-        "Conducted system and user case testing collaboratively, identifying and resolving issues to enhance system reliability and user satisfaction.",
-        "Tech Stack: System Testing, Microsoft SQL Server, Microsoft Azure"
+        "Role: As a Full Stack Java Developer Intern, I gained hands-on experience in designing, developing, and maintaining both the frontend and backend of web applications.",
+        "Developing robust and scalable web applications using Java and Spring Boot.",
+        "Implementing responsive front-end designs using HTML, CSS, and JavaScript.",
+        "Integrating backend services and APIs for a seamless user experience.",
+        "Collaborating with senior developers and contributing to ongoing projects.",
+        "Participating in code reviews, debugging, and optimizing application performance."
       ]
     },
     {
-      "company": "Micorsoft",
-      "position": "Intern, Software Test Engineer, On-Site, Taiwan(臺灣微軟)",
-      "duration": "2020.07 - 2021.03",
+      "company": "Freelancer",
+      "position": "Full Stack Java Developer, Remote, Home",
+      "duration": "01.2022 - 06.2023",
       "desc": [
-        "This project involved assisting Shin Kong Wu Ho-Su Memorial Hospital in migrating from an outdated IBM mainframe to a new, open-architecture medical information system. This transition was aimed at boosting operational efficiency and improving the user experience.",
-        "Performed comprehensive system testing to ensure software integrity and compliance with specifications.",
-        "Conducted system and user case testing collaboratively, identifying and resolving issues to enhance system reliability and user satisfaction.",
-        "Leveraged Power BI to integrate and optimize medical report processes, significantly improving data visualization and decision-making efficiency.",
-        "Tech Stack: System Testing, Microsoft SQL Server, Microsoft Azure"
+        "Role: As a freelance Full Stack Java Developer, I independently developed and delivered web applications for various clients.",
+        "Collaborating with clients to gather requirements, define project scope, and deliver customized web solutions.",
+        "Designing and developing end-to-end web applications, including both frontend and backend components.",
+        "Implementing database design and optimization for better performance using MySQL and Hibernate.",
+        "Developing and consuming RESTful APIs for third-party integrations.",
+        "Providing post-deployment support and maintenance, including debugging and enhancing existing features.",
+        "Ensuring responsiveness and scalability of applications for cross-device compatibility."
       ]
     },
     {
-      "company": "Micorsoft",
-      "position": "Intern, Software Engineer, On-Site, Taiwan(臺灣微軟)",
-      "duration": "2021.03 - 2021.08",
+      "company": "Upwork",
+      "position": "Full Stack Java Developer, Remote, Home",
+      "duration": "11.2022 - 06.2023",
       "desc": [
-        "I transitioned from a Software Test Engineer to a Software Engineer, where I was tasked with developing and maintaining web system functionalities.",
-        "Handled the development and ongoing maintenance of web system functions to enhance performance and user satisfaction.",
-        "Tech Stack: ASP.NET MVC, Microsoft SQL Server, Vue.js, Microsoft Azure, C#, TypeScript"
+        "Role: As a Full Stack Java Developer on Upwork, I worked with diverse clients to deliver tailored web solutions remotely.",
+        "Managing multiple freelance projects, from initial concept to deployment, while adhering to client timelines.",
+        "Building and maintaining scalable web applications using Java and Spring Boot.",
+        "Designing dynamic front-end interfaces with responsive layouts using HTML, CSS, and JavaScript.",
+        "Integrating APIs and ensuring seamless communication between frontend and backend systems.",
+        "Debugging, optimizing, and enhancing existing client applications.",
+        "Delivering projects that meet client specifications while maintaining high coding standards and performance efficiency."
       ]
     },
     {
-      "company": "SYSTEX",
-      "position": "Intern, Test Automation Engineer, On-Site, Taiwan(精誠資訊)",
-      "duration": "2023.02 - 2023.06",
+      "company": "Besant Technologies",
+      "position": "Full Stack Java Developer, Full-Time-on-Site, Bangalore",
+      "duration": "06.2023 - 01.2024",
       "desc": [
-        "I wrote automated scripts for websites and apps, primarily for TDCC and CTBC.",
-        "Transformed manual test scripts into automated tests, increasing efficiency and reducing error rates.",
-        "Tech Stack: VBScript, UFT One"
+        "Performance Optimization: Optimized application performance by monitoring and analyzing application logs, resulting in 25% increase in efficiency and 30% reduction in response time",
+        "Automated Testing: Implemented automated testing using JUnit and Mockito, reducing the  number of bugs by 30% and enhance overall code quality by 25%",
+        "Legacy Code Refactoring:  Resulting in a 30% improvement in overall performance.",
+        "API Integration: Designed and developed RESTful web services using Java and Spring, resulting in a 40% increase in API response time and a 30% reduction in server load."
       ]
     },
     {
-      "company": "Yunxu Technology",
-      "position": "Part-Time, Software Engineer, Remote, Taiwan(鋆旭科技)",
-      "duration": "2023.12 - 2024.06",
+      "company": "Wahenoor Digital Media",
+      "position": "Full Stack Java Developer, Full-Time-on-Site, Amritsar",
+      "duration": "01.2024 - Present",
       "desc": [
-        "As a part-time full-stack application developer at Yunxu Technology, I specialized in creating applications compatible with both iOS and Android platforms.",
-        "Developed a comprehensive Human Resources and Financial Management System.",
-        "Engineered an Inventory Management System tailored for enhanced operational efficiency.",
-        "Tech Stack: Flutter, Firebase "
+        "Web Application Development: Successfully developed, deployed and maintained a web application using Java, Spring, and Hibernate, resulting in a 80% increase in user engagement and a 60% increase in revenue within the first six months.",
+        "Achieved a 90% reduction in costs by deployed Business on cloud, leading to a 66% increase in overall business outcomes by solve user Problems",
+        "Accelerated Real-Time data access by customers to 97% through a Java, Spring, Hibernate",
+        "Spearheaded and initiated the migration process and activities of a web app with a reach of 2,000 monthly users to a Spring Boot back-end, successfully improving the application speed by 60% while diminishing server costs."
       ]
     }
   ],
@@ -463,10 +383,6 @@
       "image": "https://img.icons8.com/?size=100&id=90519&format=png&color=000000",
       "category": "All"
     },
-
-
-
-
     {
       "name": "C",
       "image": "https://img.icons8.com/?size=100&id=40670&format=png&color=000000",

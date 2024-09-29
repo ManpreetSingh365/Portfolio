@@ -37,7 +37,7 @@ type main = {
   heroImage: string;
   shortDesc: string;
   techStackImages: string[];
-  blogUrl: string;
+  phoneNumber: string;
 };
 
 type about = {
