@@ -1,6 +1,6 @@
 const CONFIG = {
   // your domain link
-  link: process.env.PUBLIC_URL || "http://localhost:3000",
+  link: process.env.PUBLIC_URL || "https://portfolio-one-puce-23.vercel.app/",
   useFirebase: {
     enable: false, // If you want to use Firebase, set this to true. In the future, we might develop a backend file management system.
     config: {
@@ -13,7 +13,7 @@ const CONFIG = {
     keywords:
       "Manpreet Singh, portfolio, Manpreet, software engineer, nextjs portfolio, portfolio design, portfolio website, personal portfolio",
     site_name: "Manpreet Singh Portfolio",
-    url: process.env.PUBLIC_URL || "http://localhost:3000",
+    url: process.env.PUBLIC_URL || "https://portfolio-one-puce-23.vercel.app/",
     author: "Manpreet Singh",
     lang: "en",
     image: "https://res.cloudinary.com/dnhvlqc1n/image/upload/v1727630612/azfdjulktx1o6thc84gy.png",
